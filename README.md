@@ -1,3 +1,5 @@
+[![Test](https://github.com/captchaly/captchaly-typescript/actions/workflows/test.yaml/badge.svg)](https://github.com/captchaly/captchaly-typescript/actions/workflows/test.yaml)
+
 # Captchaly JavaScript/TypeScript SDK
 
 Official JavaScript/TypeScript SDK for [Captchaly.com](https://captchaly.com).
