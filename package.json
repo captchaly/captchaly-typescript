@@ -1,0 +1,29 @@
+{
+  "name": "captchaly",
+  "version": "0.1.0",
+  "description": "Official JavaScript/TypeScript SDK for Captchaly.com, a CAPTCHA solver for large-scale automation and scraping.",
+  "license": "MIT",
+  "author": {
+    "name": "Captchaly",
+    "email": "admin@captchaly.com",
+    "url": "https://captchaly.com"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "vitest run --coverage",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1",
+    "@vitest/coverage-v8": "^4.1.9",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.9"
+  }
+}
