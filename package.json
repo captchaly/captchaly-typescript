@@ -8,6 +8,13 @@
     "email": "admin@captchaly.com",
     "url": "https://captchaly.com"
   },
+  "keywords": [
+    "captchaly",
+    "captcha",
+    "captcha solver",
+    "automation",
+    "scraping"
+  ],
   "type": "module",
   "main": "./dist/index.js",
   "files": [
